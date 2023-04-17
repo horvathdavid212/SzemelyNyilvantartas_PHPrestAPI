@@ -1,0 +1,64 @@
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\restAPIclient.exe.config
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\restAPIclient.exe
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\restAPIclient.pdb
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.AssemblyReference.cache
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.Properties.Resources.resources
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.Form1.resources
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.GenerateResource.cache
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.CoreCompileInputs.cache
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.exe
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.pdb
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\RestSharp.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Buffers.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Memory.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Text.Json.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.ValueTuple.dll
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\RestSharp.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Buffers.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Memory.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Text.Json.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\bin\Debug\System.ValueTuple.xml
+C:\Users\Davecs\Desktop\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.CopyComplete
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\restAPIclient.exe.config
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\restAPIclient.exe
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\restAPIclient.pdb
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\RestSharp.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Buffers.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Memory.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Text.Json.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.ValueTuple.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\RestSharp.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Buffers.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Memory.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Text.Json.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\bin\Debug\System.ValueTuple.xml
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.AssemblyReference.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.SuggestedBindingRedirects.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.Properties.Resources.resources
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.Form1.resources
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.GenerateResource.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.CoreCompileInputs.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.csproj.CopyComplete
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.exe
+C:\Users\csimp\Desktop\Eger PTI 3.fé\teszt beadas elott\restAPIclient\restAPIclient\obj\Debug\restAPIclient.pdb
